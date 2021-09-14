@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gJ9iPrcu1bIxfH8MTxNZlhyw0pBkq7YpIyMVoOsefR/O7q3wstqYgLdkeWmKoSeL9J9F0rRy8Z5FWicWPrCYKA==",
+  "dgSpecHash": "EGOfdykOUqDmgL2eWejFjC/RHY7kkS4g/OatVjlmouNr0gIt51ygQd6ODd+r5aVQDWURsda0yAU+oC2nLq3aZw==",
   "success": true,
-  "projectFilePath": "/Users/joshcrosby/dotnet/dotnet.csproj",
+  "projectFilePath": "/Users/joshcrosby/git/c-bracketmatch/dotnet.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

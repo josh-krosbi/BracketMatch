@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/joshcrosby/dotnet/dotnet.csproj": {}
+    "/Users/joshcrosby/git/c-bracketmatch/dotnet.csproj": {}
   },
   "projects": {
-    "/Users/joshcrosby/dotnet/dotnet.csproj": {
+    "/Users/joshcrosby/git/c-bracketmatch/dotnet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/joshcrosby/dotnet/dotnet.csproj",
+        "projectUniqueName": "/Users/joshcrosby/git/c-bracketmatch/dotnet.csproj",
         "projectName": "dotnet",
-        "projectPath": "/Users/joshcrosby/dotnet/dotnet.csproj",
+        "projectPath": "/Users/joshcrosby/git/c-bracketmatch/dotnet.csproj",
         "packagesPath": "/Users/joshcrosby/.nuget/packages/",
-        "outputPath": "/Users/joshcrosby/dotnet/obj/",
+        "outputPath": "/Users/joshcrosby/git/c-bracketmatch/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/joshcrosby/.nuget/NuGet/NuGet.Config"
