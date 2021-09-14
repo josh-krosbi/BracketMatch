@@ -1,0 +1,15 @@
+/Users/joshcrosby/dotnet/bin/Debug/net5.0/dotnet.deps.json
+/Users/joshcrosby/dotnet/bin/Debug/net5.0/dotnet.runtimeconfig.json
+/Users/joshcrosby/dotnet/bin/Debug/net5.0/dotnet.runtimeconfig.dev.json
+/Users/joshcrosby/dotnet/bin/Debug/net5.0/dotnet.dll
+/Users/joshcrosby/dotnet/bin/Debug/net5.0/ref/dotnet.dll
+/Users/joshcrosby/dotnet/bin/Debug/net5.0/dotnet.pdb
+/Users/joshcrosby/dotnet/obj/Debug/net5.0/dotnet.csproj.AssemblyReference.cache
+/Users/joshcrosby/dotnet/obj/Debug/net5.0/dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joshcrosby/dotnet/obj/Debug/net5.0/dotnet.AssemblyInfoInputs.cache
+/Users/joshcrosby/dotnet/obj/Debug/net5.0/dotnet.AssemblyInfo.cs
+/Users/joshcrosby/dotnet/obj/Debug/net5.0/dotnet.csproj.CoreCompileInputs.cache
+/Users/joshcrosby/dotnet/obj/Debug/net5.0/dotnet.dll
+/Users/joshcrosby/dotnet/obj/Debug/net5.0/ref/dotnet.dll
+/Users/joshcrosby/dotnet/obj/Debug/net5.0/dotnet.pdb
+/Users/joshcrosby/dotnet/obj/Debug/net5.0/dotnet.genruntimeconfig.cache
